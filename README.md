@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Uikey</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from Walchand College Of Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470qp0bc6a5wdmi5i3wbzznuq0kenuqicdpex1wz6y&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur25x&label=Profile%20views&color=0e75b6&style=flat" alt="mayur25x" /> </p>
