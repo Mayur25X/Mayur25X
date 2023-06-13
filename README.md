@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Uikey</h1>
 <h3 align="center">A passionate Full stack developer from Walchand College Of Engineering</h3>
-<img align="right" alt="Coding" width="400" src="[https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470qp0bc6a5wdmi5i3wbzznuq0kenuqicdpex1wz6y&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966)">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470qp0bc6a5wdmi5i3wbzznuq0kenuqicdpex1wz6y&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur25x&label=Profile%20views&color=0e75b6&style=flat" alt="mayur25x" /> </p>
 
